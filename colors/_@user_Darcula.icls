@@ -1,0 +1,18 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2022-05-26T14:04:29</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">2021.2.1.14</property>
+    <property name="modified">2022-05-26T17:28:16</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="ERRORS_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="e57132" />
+        <option name="ERROR_STRIPE_COLOR" value="ff4040" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
