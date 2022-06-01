@@ -3,7 +3,7 @@
     <property name="created">2022-05-26T14:04:29</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.2.1.14</property>
-    <property name="modified">2022-05-31T09:57:39</property>
+    <property name="modified">2022-06-01T21:16:37</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -47,6 +47,14 @@
       <value>
         <option name="FOREGROUND" value="ff0000" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="WRONG_REFERENCES_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="80472d" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
   </attributes>
